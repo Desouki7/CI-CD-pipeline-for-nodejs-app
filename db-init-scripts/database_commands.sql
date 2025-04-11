@@ -1,5 +1,5 @@
--- create database postgres_db;
--- \c postgres_db;
+--- create database postgres_db;
+--- \c postgres_db;
 
 CREATE TABLE IF NOT EXISTS posts (
     id SERIAL PRIMARY KEY,
