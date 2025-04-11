@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+      "ejs": "*",
+      "express": "*",
+      "pg": "*"
+    }
+  }
